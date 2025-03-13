@@ -6,7 +6,7 @@ This project compares the performance of two-level adaptive branch predictor aut
 
 ## Simulation Details
 
-The simulation was conducted using **zsim**, with custom logic implementing A3. To analyze the results, a Python virtual environment should be used with dependencies listed in `deps.sh`.
+The simulation was conducted using **zsim**, implementing A3 in ooo_core.h (simulation/zsim/src). To analyze the results, a Python virtual environment should be used with dependencies listed in `deps.sh`.
 
 ## Results
 
