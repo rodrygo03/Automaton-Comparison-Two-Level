@@ -1,0 +1,4 @@
+benchmarks/
+single-benchmark.zip
+*.pyc
+.DS_Store
