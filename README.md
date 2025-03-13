@@ -28,11 +28,11 @@ The following table presents the performance observed for A2 and A3 across vario
 The results of the prediction are illustrated in the following graphs:
 
 - **A2 Results**
-  ![A2 Results](analysis-results/A2_results.png)
+  ![A2 Results](analysis-results/A2_Results.png)
 - **A3 Results**
-  ![A3 Results](analysis-results/A3_results.png)
+  ![A3 Results](analysis-results/A3_Results.png)
 - **Difference Results**
-  ![Difference Results](analysis-results/Diff_results.png)
+  ![Difference Results](analysis-results/Diff_Results.png)
 
 ## Usage
 
